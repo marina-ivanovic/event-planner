@@ -14,6 +14,8 @@ This application uses the following tools:
  - Java, Spring Boot, PostgreSQL
  - Android SDK
 
+This application has multiple user roles, depending on which, they are able to interact with the app in different ways:
+
 ### **Unauthenticated User (UA):**
 
 * Can search all open-type services/products/events
