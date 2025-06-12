@@ -7,7 +7,12 @@
 ---
 
 ## About
-Event Planner is a full-stack event planning application with multiple user types. It is currently a WIP.
+Event Planner is a mobile and web application which deals with planning events like celebrations, conferences, team building, etc.
+
+This application uses the following tools:
+ - Angular (TS, HTML, CSS), Bootstrap, JWT, Leafelt
+ - Java, Spring Boot, PostgreSQL
+ - Android SDK
 
 ### **Unauthenticated User (UA):**
 
